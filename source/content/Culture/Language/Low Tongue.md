@@ -1,0 +1,1 @@
+The **Low Tongue** is a dialect of the [[Mortal Tongue]], the common language of the [[Mortal Empire]]. Mutually intelligible with the other dialects, the Low Tongue is distinguished by its tight contractions and quickly evolving slang. It is most associated with the servant classes, city-dwellers, and [[Zouhri]].

@@ -1,0 +1,1 @@
+The **Blue Tongue** is a dialect of the [[Mortal Tongue]], the common language of the [[Mortal Empire]]. Mutually intelligible with the other dialects, the Blue Tongue is distinguished by its slower, more officious pace, and more traditional manner of speaking. It is most associated with priests, aristocrats, and farmers.

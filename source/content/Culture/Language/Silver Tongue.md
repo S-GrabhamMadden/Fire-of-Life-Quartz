@@ -1,0 +1,1 @@
+The **Silver Tongue** is a dialect of the [[Mortal Tongue]], the common language of the [[Mortal Empire]]. Mutually intelligible with the other dialects, the Silver Tongue is distinguished by its heavier use of foreign loan-words, and simpler grammatical structure. It is most associated with merchants, sailors, and foreigners.
