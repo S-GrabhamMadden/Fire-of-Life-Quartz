@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/Marid.md",
+                "file": "Geography/Mortal Empire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marid"
+              "title": "Mortal Empire"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/Marid.md",
+                "file": "Geography/Mortal Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marid"
+              "title": "Backlinks for Mortal Empire"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/Marid.md",
+                "file": "Geography/Mortal Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marid"
+              "title": "Outgoing links from Mortal Empire"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/Marid.md"
+                "file": "Geography/Mortal Empire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Marid"
+              "title": "Outline of Mortal Empire"
             }
           }
         ],
@@ -165,10 +165,17 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Beings/Spirits/Greater Spirits/Djinn.md",
+    "Geography/Paristan.md",
+    "Geography/Mortal Empire.md",
+    "Beings/Spirits/Greater Spirits/Pari.md",
     "Beings/Spirits/Greater Spirits/Marid.md",
     "Beings/Spirits/Greater Spirits/index.md",
+    "Beings/Spirits/Greater Spirits/Djinn.md",
     "index.md",
+    "Politics/Titles & Positions/Caliph.md",
+    "Politics/Titles & Positions",
+    "Geography/index.md",
+    "Culture/Language/Blue Tongue.md",
     "Beings/Spirits/Greater Spirits",
     "Beings/Mortals",
     "Beings/Monsters",
@@ -177,18 +184,15 @@
     "Culture/Language/Silver Tongue.md",
     "Culture/Language/Mortal Tongue.md",
     "Culture/Language/Low Tongue.md",
-    "Culture/Language/Blue Tongue.md",
     "Culture/Language/index.md",
-    "Geography/Politics/index.md",
+    "Politics/index.md",
     "Culture/Language",
     "History/index.md",
-    "Geography/Politics",
-    "Geography/index.md",
+    "Politics",
     "Culture/index.md",
     "Culture",
     "Geography",
     "History/Some note.md",
-    "2025-01-26.md",
-    "History"
+    "2025-01-26.md"
   ]
 }
