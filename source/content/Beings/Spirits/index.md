@@ -1,0 +1,5 @@
+---
+title: Spirits
+aliases:
+  - Spirits
+---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Mortal Empire.md",
+                "file": "Geography/Celestial Bodies/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mortal Empire"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Mortal Empire.md",
+                "file": "Beings/Mortals/Humans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mortal Empire"
+              "title": "Backlinks for Humans"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Mortal Empire.md",
+                "file": "Beings/Mortals/Humans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mortal Empire"
+              "title": "Outgoing links from Humans"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Mortal Empire.md"
+                "file": "Geography/Celestial Bodies/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mortal Empire"
+              "title": "Outline of index"
             }
           }
         ],
@@ -165,17 +165,30 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Geography/Paristan.md",
+    "Geography/Celestial Bodies/Qamar.md",
     "Geography/Mortal Empire.md",
+    "Geography/Paristan.md",
+    "index.md",
+    "Politics/index.md",
+    "Politics/Titles & Positions/index.md",
+    "Politics/Titles & Positions/Caliph.md",
+    "Beings/Mortals/Humans.md",
+    "Culture/Language/Blue Tongue.md",
     "Beings/Spirits/Greater Spirits/Pari.md",
     "Beings/Spirits/Greater Spirits/Marid.md",
-    "Beings/Spirits/Greater Spirits/index.md",
     "Beings/Spirits/Greater Spirits/Djinn.md",
-    "index.md",
-    "Politics/Titles & Positions/Caliph.md",
-    "Politics/Titles & Positions",
+    "Beings/Mortals/Zouhri.md",
+    "Geography/Celestial Bodies/Throne.md",
+    "Geography/Celestial Bodies/Aqn.md",
+    "Geography/Celestial Bodies/Abzu.md",
+    "Beings/True Gods.md",
     "Geography/index.md",
-    "Culture/Language/Blue Tongue.md",
+    "Geography/Celestial Bodies/index.md",
+    "Geography/Celestial Bodies",
+    "Beings/Spirits/index.md",
+    "Beings/Mortals/index.md",
+    "Beings/Spirits/Greater Spirits/index.md",
+    "Politics/Titles & Positions",
     "Beings/Spirits/Greater Spirits",
     "Beings/Mortals",
     "Beings/Monsters",
@@ -185,14 +198,8 @@
     "Culture/Language/Mortal Tongue.md",
     "Culture/Language/Low Tongue.md",
     "Culture/Language/index.md",
-    "Politics/index.md",
     "Culture/Language",
-    "History/index.md",
     "Politics",
-    "Culture/index.md",
-    "Culture",
-    "Geography",
-    "History/Some note.md",
-    "2025-01-26.md"
+    "Culture"
   ]
 }

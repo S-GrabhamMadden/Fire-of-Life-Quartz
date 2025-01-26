@@ -1,0 +1,5 @@
+---
+title: Mortals
+aliases:
+  - Mortals
+---

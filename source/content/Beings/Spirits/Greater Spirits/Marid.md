@@ -3,3 +3,4 @@ The **Marids** were the first of the [[Beings/Spirits/Greater Spirits/index|Grea
 ## Notable Marids
 
 * [[Iblis]]: Master of the Marids, first among traitors, and ever-accursed.
+* [[Shamash]]: Master of light and sensation, locked away and lost even before the other Marids for forgotten crimes against his kin.
