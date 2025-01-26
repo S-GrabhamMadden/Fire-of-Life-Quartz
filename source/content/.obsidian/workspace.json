@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Language/Blue Tongue.md",
+                "file": "Beings/Spirits/Greater Spirits/Marid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Tongue"
+              "title": "Marid"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Language/Blue Tongue.md",
+                "file": "Beings/Spirits/Greater Spirits/Marid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blue Tongue"
+              "title": "Backlinks for Marid"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Language/Blue Tongue.md",
+                "file": "Beings/Spirits/Greater Spirits/Marid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blue Tongue"
+              "title": "Outgoing links from Marid"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Language/Blue Tongue.md"
+                "file": "Beings/Spirits/Greater Spirits/Marid.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Blue Tongue"
+              "title": "Outline of Marid"
             }
           }
         ],
@@ -165,18 +165,26 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Culture/Language/index.md",
-    "Culture/Language/Blue Tongue.md",
+    "Beings/Spirits/Greater Spirits/Djinn.md",
+    "Beings/Spirits/Greater Spirits/Marid.md",
+    "Beings/Spirits/Greater Spirits/index.md",
+    "index.md",
+    "Beings/Spirits/Greater Spirits",
+    "Beings/Mortals",
+    "Beings/Monsters",
+    "Beings/Spirits",
+    "Beings",
     "Culture/Language/Silver Tongue.md",
-    "Culture/Language/Low Tongue.md",
     "Culture/Language/Mortal Tongue.md",
+    "Culture/Language/Low Tongue.md",
+    "Culture/Language/Blue Tongue.md",
+    "Culture/Language/index.md",
     "Geography/Politics/index.md",
     "Culture/Language",
     "History/index.md",
     "Geography/Politics",
     "Geography/index.md",
     "Culture/index.md",
-    "index.md",
     "Culture",
     "Geography",
     "History/Some note.md",
