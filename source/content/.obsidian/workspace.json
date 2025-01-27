@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Celestial Bodies/index.md",
+                "file": "History/Treasures/Fire of Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Fire of Life"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Celestial Bodies/index.md"
+                "file": "History/Treasures/Fire of Life.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Fire of Life"
             }
           }
         ],
@@ -165,10 +165,17 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "History/Treasures/Fire of Life.md",
+    "History/Timeline.md",
+    "History/Lanternbearers.md",
+    "History/Treasures/index.md",
+    "index.md",
+    "History/Treasures",
+    "Geography/Celestial Bodies/Abzu.md",
+    "Geography/Celestial Bodies/index.md",
     "Geography/Celestial Bodies/Qamar.md",
     "Geography/Mortal Empire.md",
     "Geography/Paristan.md",
-    "index.md",
     "Politics/index.md",
     "Politics/Titles & Positions/index.md",
     "Politics/Titles & Positions/Caliph.md",
@@ -180,10 +187,8 @@
     "Beings/Mortals/Zouhri.md",
     "Geography/Celestial Bodies/Throne.md",
     "Geography/Celestial Bodies/Aqn.md",
-    "Geography/Celestial Bodies/Abzu.md",
     "Beings/True Gods.md",
     "Geography/index.md",
-    "Geography/Celestial Bodies/index.md",
     "Geography/Celestial Bodies",
     "Beings/Spirits/index.md",
     "Beings/Mortals/index.md",
@@ -194,12 +199,7 @@
     "Beings/Monsters",
     "Beings/Spirits",
     "Beings",
-    "Culture/Language/Silver Tongue.md",
-    "Culture/Language/Mortal Tongue.md",
-    "Culture/Language/Low Tongue.md",
-    "Culture/Language/index.md",
     "Culture/Language",
-    "Politics",
-    "Culture"
+    "Politics"
   ]
 }
