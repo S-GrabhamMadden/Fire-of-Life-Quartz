@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Titles & Positions/Caliph.md",
+                "file": "Beings/Spirits/Greater Spirits/Ifrit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caliph"
+              "title": "Ifrit"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Titles & Positions/Caliph.md"
+                "file": "Beings/Spirits/Greater Spirits/Ifrit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Caliph"
+              "title": "Outline of Ifrit"
             }
           }
         ],
@@ -165,8 +165,16 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Beings/Spirits/index.md",
+    "Beings/Spirits/Greater Spirits/Ifrit.md",
+    "Beings/Spirits/Greater Spirits/Djinn.md",
+    "Beings/Spirits/Greater Spirits/Marid.md",
+    "Beings/True Gods.md",
+    "index.md",
+    "History/Treasures/Tablet of Destinies.md",
     "Politics/Titles & Positions/Caliph.md",
+    "Geography/Locations/House of Wisdom.md",
+    "Geography/Locations",
+    "Beings/Spirits/index.md",
     "History/Treasures/Fire of Life.md",
     "Restoration Army.md",
     "Karama.md",
@@ -175,7 +183,6 @@
     "History/Timeline.md",
     "History/Lanternbearers.md",
     "History/Treasures/index.md",
-    "index.md",
     "History/Treasures",
     "Geography/Celestial Bodies/Abzu.md",
     "Geography/Celestial Bodies/index.md",
@@ -186,12 +193,6 @@
     "Politics/Titles & Positions/index.md",
     "Beings/Mortals/Humans.md",
     "Culture/Language/Blue Tongue.md",
-    "Beings/Spirits/Greater Spirits/Pari.md",
-    "Beings/Spirits/Greater Spirits/Marid.md",
-    "Beings/Spirits/Greater Spirits/Djinn.md",
-    "Beings/Mortals/Zouhri.md",
-    "Geography/Celestial Bodies/Aqn.md",
-    "Beings/True Gods.md",
     "Geography/Celestial Bodies",
     "Politics/Titles & Positions",
     "Beings/Spirits/Greater Spirits",
@@ -199,7 +200,6 @@
     "Beings/Monsters",
     "Beings/Spirits",
     "Beings",
-    "Culture/Language",
-    "Politics"
+    "Culture/Language"
   ]
 }
