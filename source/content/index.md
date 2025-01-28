@@ -12,3 +12,9 @@ title: The Fire of Life - Home
 A vast [[Mortal Empire|Caliphate]] is now seated at the center of the world, governed by masters of the arcane arts. Its own history has grown ancient, and threats new and old have emerged to press on the borders, physical and ethereal, of the mortal domain. In this era, it is only the sacrifice of the bold few that will save the many.
 
 ## Recent Events
+
+### Onset of Civil War
+
+### [[Epic of the Lanternbearers]]
+
+### New Phase of Conflict

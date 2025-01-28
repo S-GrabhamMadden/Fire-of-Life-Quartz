@@ -39,8 +39,8 @@ Though unofficial, the Sultanates are typically subdivided into five greater reg
 #### Great Cities
 The [[Great Cities]] are five small territories autonomous from the Sultanates and answerable only to the Qasr. Each is a center of population and commerce, and each is tightly associated with one of the five principles of [[Maat]], the core spiritual order of the realm.
 
- * [[Aam]]: The Great City of Morality.
- * [[Hath]]: The Great City of Order.
- * [[Is]]: The Great City of Balance.
- * [[Qeb]]: The Great City of Harmony.
- * [[Saa]]: The Great City of Truth.
+ * [[Great City of Aam|Aam]]: The Great City of Morality.
+ * [[Great City of Hath|Hath]]: The Great City of Order.
+ * [[Great City of Is|Is]]: The Great City of Balance.
+ * [[Great City of Qeb|Qeb]]: The Great City of Harmony.
+ * [[Great City of Saa|Saa]]: The Great City of Truth.

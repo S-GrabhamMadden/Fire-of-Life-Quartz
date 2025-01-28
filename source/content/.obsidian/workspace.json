@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/Ifrit.md",
+                "file": "Politics/Titles & Positions/Caliph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ifrit"
+              "title": "Caliph"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/Ifrit.md"
+                "file": "Politics/Titles & Positions/Caliph.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ifrit"
+              "title": "Outline of Caliph"
             }
           }
         ],
@@ -165,17 +165,18 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "index.md",
+    "Geography/Mortal Empire.md",
+    "History/Treasures/Fire of Life.md",
     "Beings/Spirits/Greater Spirits/Ifrit.md",
     "Beings/Spirits/Greater Spirits/Djinn.md",
     "Beings/Spirits/Greater Spirits/Marid.md",
     "Beings/True Gods.md",
-    "index.md",
     "History/Treasures/Tablet of Destinies.md",
     "Politics/Titles & Positions/Caliph.md",
     "Geography/Locations/House of Wisdom.md",
     "Geography/Locations",
     "Beings/Spirits/index.md",
-    "History/Treasures/Fire of Life.md",
     "Restoration Army.md",
     "Karama.md",
     "Geography/Celestial Bodies/Throne.md",
@@ -187,7 +188,6 @@
     "Geography/Celestial Bodies/Abzu.md",
     "Geography/Celestial Bodies/index.md",
     "Geography/Celestial Bodies/Qamar.md",
-    "Geography/Mortal Empire.md",
     "Geography/Paristan.md",
     "Politics/index.md",
     "Politics/Titles & Positions/index.md",
