@@ -21,7 +21,7 @@ The [[Fidai]] are a closed association of assassins and hunters, following the m
 
 ## Subdivisions
 
-#### Sultanates
+### Sultanates
 The vast majority of land in the Empire is part of one of the thirteen [[Sultanate|Sultanates]], each with its own ruling [[Sultan]], typically an inherited position. Several of the Sultanates have differences in political status from the norm, but all are largely autonomous in day-to-day affairs.
 
 Though unofficial, the Sultanates are typically subdivided into five greater regional groups, based on common geographic and cultural elements:
@@ -49,7 +49,7 @@ Though unofficial, the Sultanates are typically subdivided into five greater reg
  * [[Rukham]]
  * [[Tar]]
 
-#### Great Cities
+### Great Cities
 The [[Great Cities]] are five small territories separate from the Sultanates and answerable only to the Qasr. Each is a center of population and commerce, and each is tightly associated with one of the five principles of [[Maat]], the core spiritual order of the realm.
 
  * [[Great City of Aam|Aam]]: The Great City of Morality.
@@ -58,7 +58,7 @@ The [[Great Cities]] are five small territories separate from the Sultanates and
  * [[Great City of Qeb|Qeb]]: The Great City of Harmony.
  * [[Great City of Saa|Saa]]: The Great City of Truth.
 
-#### Special Territories
+### Special Territories
 Several other territories outside the thirteen Sultanates swear allegiance to the Mortal Empire to some degree, each a unique case politically and socially.
 
 [[Sharaq]] is a [[Khedivate]] in the [[Eastern Frontier]], a militarized governorate that serves as a bulwark against the [[Eastern Realms]].
