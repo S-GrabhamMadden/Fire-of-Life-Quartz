@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Titles & Positions/Caliph.md",
+                "file": "Geography/Celestial Bodies/Stars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caliph"
+              "title": "Stars"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Titles & Positions/Caliph.md"
+                "file": "Geography/Celestial Bodies/Stars.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Caliph"
+              "title": "Outline of Stars"
             }
           }
         ],
@@ -165,34 +169,34 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
+    "Geography/Celestial Bodies/Qamar.md",
     "Geography/Mortal Empire.md",
+    "Untitled.canvas",
+    "Politics/Titles & Positions/Caliph.md",
+    "Ahmar.md",
+    "Geography/Celestial Bodies/Abzu.md",
+    "Geography/Celestial Bodies/Stars.md",
+    "Maat.md",
+    "Geography/Celestial Bodies/Throne.md",
+    "index.md",
+    "Politics/index.md",
     "History/Treasures/Fire of Life.md",
     "Beings/Spirits/Greater Spirits/Ifrit.md",
     "Beings/Spirits/Greater Spirits/Djinn.md",
     "Beings/Spirits/Greater Spirits/Marid.md",
     "Beings/True Gods.md",
     "History/Treasures/Tablet of Destinies.md",
-    "Politics/Titles & Positions/Caliph.md",
     "Geography/Locations/House of Wisdom.md",
     "Geography/Locations",
     "Beings/Spirits/index.md",
     "Restoration Army.md",
     "Karama.md",
-    "Geography/Celestial Bodies/Throne.md",
     "High Place.md",
     "History/Timeline.md",
     "History/Lanternbearers.md",
     "History/Treasures/index.md",
     "History/Treasures",
-    "Geography/Celestial Bodies/Abzu.md",
     "Geography/Celestial Bodies/index.md",
-    "Geography/Celestial Bodies/Qamar.md",
-    "Geography/Paristan.md",
-    "Politics/index.md",
-    "Politics/Titles & Positions/index.md",
-    "Beings/Mortals/Humans.md",
-    "Culture/Language/Blue Tongue.md",
     "Geography/Celestial Bodies",
     "Politics/Titles & Positions",
     "Beings/Spirits/Greater Spirits",
