@@ -1,0 +1,6 @@
+The **Div** are a race of [[Beings/Spirits/Lesser Spirits/index|Lesser Spirits]], at times grouped in with [[Beings/Mortals/index|Mortals]] or [[Beings/Monsters/Lesser Monsters/index|Lesser Monsters]] as mainly corporeal beings. The Div were created by the [[Djinn]] to serve largely martial roles, and have since formed various tribes and bandit clans, the greatest of which have coalesced into the state of [[Mazandaran]].
+
+## Nature
+The Div are [[Corporeal Spirits]]. As with all spirits, there is a small fragment of their being that is ageless and theoretically eternal. However, in the case of Div, this fragment is encased and bonded with a physical body, that is born, grows, and dies naturally, much the same as [[Beings/Mortals/index|Mortals]]. This was an intentional design of the [[Djinn]], who wished to deny immortality to their servants.
+
+When a Div is killed, their true spirit is unbound from their corporeal form. This fragmentary spirit struggles to hold on to memory or sense of identity, largely melding back into the wider [[Spirit Winds]] from which Divic spawn draw. Rarely, particularly strong-willed Div may hold on to some sense of self, influencing in minor ways the shifting of the winds.

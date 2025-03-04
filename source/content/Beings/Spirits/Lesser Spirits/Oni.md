@@ -1,0 +1,3 @@
+The **Oni** are a race of [[Beings/Spirits/Lesser Spirits/index|Lesser Spirits]]. Monstrously powerful [[Corporeal Spirits]] of the far east, the Oni are the masters of the eponymous [[Onistan]]. Supposedly capable of shapeshifting, controlling thunder and lightning, incredible feats of strength, and other kinds of spiritual magic, the Oni are among the most potent of the Lesser Spirits.
+
+Though their true origin is now shrouded in mystery, the leading theory among scholars of the [[Mortal Empire]] is that the Oni are a synthesis of [[Djinn]] and [[Div]], akin to the [[Zouhri]] produced with [[Beings/Mortals/index|Mortals]].

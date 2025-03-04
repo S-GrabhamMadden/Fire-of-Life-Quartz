@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Treasures/Fire of Life.md",
+                "file": "Beings/Spirits/Greater Spirits/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fire of Life"
+              "title": "index"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Treasures/Fire of Life.md",
+                "file": "Beings/Spirits/Greater Spirits/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fire of Life"
+              "title": "Outline of index"
             }
           }
         ],
@@ -169,33 +169,35 @@
   },
   "active": "f83d31685ea6b38d",
   "lastOpenFiles": [
-    "History/Treasures/index.md",
+    "Beings/Spirits/Lesser Spirits/index.md",
+    "Beings/Spirits/Lesser Spirits/Oni.md",
+    "Beings/Spirits/Lesser Spirits/Zar.md",
+    "Beings/Spirits/Lesser Spirits/Qareen.md",
+    "Beings/Spirits/Greater Spirits/index.md",
+    "Beings/Spirits/Lesser Spirits/Udug.md",
+    "Beings/Spirits/Lesser Spirits/Udgalla.md",
+    "Beings/Spirits/Lesser Spirits/Div.md",
+    "Beings/Spirits/Lesser Spirits/Rabisu.md",
+    "Beings/Spirits/Lesser Spirits/Naddaha.md",
+    "Beings/Mortals/Zouhri.md",
+    "Beings/Spirits/Greater Spirits/Djinn.md",
+    "Beings/Monsters/Lesser Monsters/index.md",
+    "Beings/Monsters/Lesser Monsters",
+    "Beings/Spirits/index.md",
+    "Beings/Spirits/Lesser Spirits",
+    "Beings/Spirits/Greater Spirits/Marid.md",
+    "Beings/Spirits/Greater Spirits/Pari.md",
+    "index.md",
     "History/Treasures/Tablet of Destinies.md",
+    "Politics/index.md",
+    "Politics/Titles & Positions/Caliph.md",
+    "History/Treasures/Fire of Life.md",
+    "History/Treasures/index.md",
     "Geography/Territories/Algharbia.md",
     "Geography/Territories/Gazar.md",
-    "History/Treasures/Fire of Life.md",
-    "Politics/Titles & Positions/Caliph.md",
     "Geography/Locations/Tharwa/Tharwa.md",
     "Geography/Locations/Tharwa/Blue Bank.md",
-    "Geography/Locations/Tharwa/Lighthouse of Tharwa.md",
     "Geography/Locations/Tharwa",
-    "Beings/Spirits/Greater Spirits/Pari.md",
-    "Beings/Spirits/index.md",
-    "Beings/Spirits/Greater Spirits/Marid.md",
-    "Beings/Spirits/Greater Spirits/Ifrit.md",
-    "Beings/Spirits/Greater Spirits/Djinn.md",
-    "Geography/Locations/House of Wisdom.md",
-    "Geography/Territories/Paristan.md",
-    "Geography/Territories/Mortal Empire.md",
-    "Geography/Celestial Bodies/Throne.md",
-    "Geography/Celestial Bodies/Stars.md",
-    "Geography/Celestial Bodies/Qamar.md",
-    "Geography/Celestial Bodies/Aqn.md",
-    "Geography/Celestial Bodies/Abzu.md",
-    "Culture/Language/Silver Tongue.md",
-    "Culture/Language/Mortal Tongue.md",
-    "Culture/Language/Low Tongue.md",
-    "Culture/Language/Kullull.md",
     "Geography/Territories",
     "Untitled.canvas",
     "Geography/Locations",
@@ -203,8 +205,6 @@
     "Geography/Celestial Bodies",
     "Politics/Titles & Positions",
     "Beings/Spirits/Greater Spirits",
-    "Beings/Mortals",
-    "Beings/Monsters",
-    "Beings/Spirits"
+    "Beings/Mortals"
   ]
 }
