@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Territories/Gazar.md",
+                "file": "Geography/Territories/Algharbia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gazar"
+              "title": "Algharbia"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Territories/Gazar.md",
+                "file": "Geography/Territories/Algharbia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gazar"
+              "title": "Outline of Algharbia"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "f83d31685ea6b38d",
   "lastOpenFiles": [
+    "Geography/Territories/Gazar.md",
     "History/Treasures/Fire of Life.md",
     "History/Treasures/Tablet of Destinies.md",
     "Politics/Titles & Positions/Caliph.md",
@@ -182,7 +183,6 @@
     "Beings/Spirits/Greater Spirits/Ifrit.md",
     "Beings/Spirits/Greater Spirits/Djinn.md",
     "Geography/Territories/Algharbia.md",
-    "Geography/Territories/Gazar.md",
     "Geography/Locations/House of Wisdom.md",
     "Geography/Territories/Paristan.md",
     "Geography/Territories/Mortal Empire.md",

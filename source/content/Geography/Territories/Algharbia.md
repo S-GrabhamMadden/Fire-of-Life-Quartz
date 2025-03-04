@@ -1,6 +1,6 @@
 ---
 tags:
-  - private
   - stub
+draft: "true"
 ---
 Western Islands, star cults, phoenecianesque
