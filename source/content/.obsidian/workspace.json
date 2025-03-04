@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "f83d31685ea6b38d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Territories/Gazar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gazar"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Geography/Territories/Gazar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Gazar"
             }
           }
         ],
@@ -162,44 +167,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "f83d31685ea6b38d",
   "lastOpenFiles": [
-    "Culture/Language/Kullull.md",
+    "History/Treasures/Fire of Life.md",
+    "History/Treasures/Tablet of Destinies.md",
     "Politics/Titles & Positions/Caliph.md",
-    "Beings/Mortals/Kullullu.md",
-    "Beings/Mortals/Humans.md",
+    "Geography/Locations/Tharwa/Tharwa.md",
+    "Geography/Locations/Tharwa/Blue Bank.md",
+    "Geography/Locations/Tharwa/Lighthouse of Tharwa.md",
+    "Geography/Locations/Tharwa",
+    "Beings/Spirits/Greater Spirits/Pari.md",
+    "Beings/Spirits/index.md",
+    "Beings/Spirits/Greater Spirits/Marid.md",
+    "Beings/Spirits/Greater Spirits/Ifrit.md",
+    "Beings/Spirits/Greater Spirits/Djinn.md",
+    "Geography/Territories/Algharbia.md",
+    "Geography/Territories/Gazar.md",
+    "Geography/Locations/House of Wisdom.md",
+    "Geography/Territories/Paristan.md",
+    "Geography/Territories/Mortal Empire.md",
+    "Geography/Celestial Bodies/Throne.md",
     "Geography/Celestial Bodies/Stars.md",
     "Geography/Celestial Bodies/Qamar.md",
-    "Geography/Celestial Bodies/Abzu.md",
     "Geography/Celestial Bodies/Aqn.md",
-    "Beings/Spirits/Greater Spirits/Pari.md",
-    "Beings/Spirits/Greater Spirits/Marid.md",
-    "Beings/Spirits/Greater Spirits/Djinn.md",
-    "Beings/Spirits/Greater Spirits/Ifrit.md",
-    "Geography/Mortal Empire.md",
-    "History/Treasures/Fire of Life.md",
+    "Geography/Celestial Bodies/Abzu.md",
+    "Culture/Language/Silver Tongue.md",
+    "Culture/Language/Mortal Tongue.md",
+    "Culture/Language/Low Tongue.md",
+    "Culture/Language/Kullull.md",
+    "Culture/Language/Blue Tongue.md",
+    "Geography/Territories",
     "Untitled.canvas",
-    "Ahmar.md",
-    "Maat.md",
-    "Geography/Celestial Bodies/Throne.md",
-    "index.md",
-    "Politics/index.md",
-    "Beings/True Gods.md",
-    "History/Treasures/Tablet of Destinies.md",
-    "Geography/Locations/House of Wisdom.md",
     "Geography/Locations",
-    "Beings/Spirits/index.md",
-    "Restoration Army.md",
-    "Karama.md",
-    "High Place.md",
     "History/Treasures",
     "Geography/Celestial Bodies",
     "Politics/Titles & Positions",
     "Beings/Spirits/Greater Spirits",
     "Beings/Mortals",
     "Beings/Monsters",
-    "Beings/Spirits",
-    "Beings",
-    "Culture/Language"
+    "Beings/Spirits"
   ]
 }
