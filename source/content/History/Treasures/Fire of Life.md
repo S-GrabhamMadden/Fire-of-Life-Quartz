@@ -1,3 +1,4 @@
+> [!quote]+ Excerpt from the first story of the [[Epic of Dawn]].
 > *Firstly, “AQN”, spake Them, commanding the world to be,*
 > 
 > *And so it did, and so it was, and so creation first came about.*
@@ -5,8 +6,6 @@
 > *Secondly, They breathed a great heat into the center of the world,*
 > 
 > *The Fire of Life, from which did flicker all fickle mortality.*
-> 
-> Excerpt from the first story of the [[Epic of Dawn]].
 
 The **Fire of Life** was breathed into [[Aqn]] by the [[True Gods]] at the dawn of time to give heat to the world. All [[Beings/Mortals/index|Mortals]], including natural beasts, originate from the spawn of the divine fire, slowly emerging from tunnels in the earth to join the surface world which was previously populated majorly by [[Beings/Spirits/index|Spirits]]. Should the fire ever be extinguished entirely, all mortal life would end in that instant.
 
