@@ -1,0 +1,3 @@
+The **Shadhavar** is a larger deer-like [[Beings/Monsters/Lesser Monsters/index|Lesser Monster]] most commonly found in [[Paristan]]. It has a single horn that grows either 42 or 72 hollow branches. The horns are said to produce pleasant sounds as they catch the wind.
+
+When severed, a Shadhavar horn can be used like a flute. If blown from one side, they produce cheerful music. From the other, music sad enough to force some to cry.

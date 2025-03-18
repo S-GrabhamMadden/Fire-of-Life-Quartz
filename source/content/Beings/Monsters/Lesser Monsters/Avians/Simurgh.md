@@ -1,0 +1,5 @@
+The **Simurgh** is a type of [[Beings/Monsters/Lesser Monsters/index|Lesser Monster]], an enormous bird said to resemble a resplendent peacock. They, like the [[Roc]], are considered close descendants of the [[Anqa]].
+
+More intelligent than the Roc, the Simurgh is also much rarer. Its traditional home is [[Gaokerena]], the great [[Haoma Tree]] in the cosmic [[Abzu]] where the [[Anqa]] also originate. Simurgh also migrate to [[Aqn]] on occasion, mostly found nesting in [[Haoma Tree|Haoma Trees]], which are most common in the [[Lasashi Pranta]].
+
+The Simurgh is said to be extraordinarily long-lived, and is considered a positive omen. Its passage is seen to purify land and water, and bring fertility. Its feathers, which are said to come in thirty colours, are held as prized charms. Its tendency to nest in the [[Haoma Tree]] means that following a Simurgh will lead to a source of healing and wellbeing.

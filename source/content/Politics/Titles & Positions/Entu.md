@@ -1,0 +1,1 @@
+The **Entu** are the highest regular rank of priesthood in the [[Khatibi|Khatibi Order]]. They are elected by a council of [[Hemet|Hemets]] to serve a particular duty, granted particular rights, responsibilities, and restrictions which are enumerated on an [[Entu Stone]] that is typically worn hung around the neck.

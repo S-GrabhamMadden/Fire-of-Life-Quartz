@@ -1,0 +1,5 @@
+**Gaokerena** is a vast [[Haoma Tree]] said to grow through the [[Abzu]], in a place near the [[Throne]], as a source of fertility for the plants of [[Aqn]]. It is believed to be a later work of the [[True Gods]], though some ancient stories suggest the [[Pari]] had a hand in its creation as well.
+
+Its leaves and sap are said to have a hundred-fold the medicinal property of the Haoma, and it supposedly holds seeds of all plants of the world. The juice from the fruit of Gaokerena is said to grant "perfect welfare", and is believed to explain why the [[Simurgh]] who reside there are so much longer lived than their cousin, the [[Roc]].
+
+Access to Gaokerena is difficult even in comparison to other [[Geography/Outer Realms/index|Outer Realms]]. The [[Anqa]] and the [[Simurgh]] are able to fly between it and [[Aqn]] in a straight line, but mortals, even with the power of flight, will find it impossible to follow without curving away. At least a handful of [[Pari]] are known to have accessed Gaokerena, but this magic has been kept a jealous secret.

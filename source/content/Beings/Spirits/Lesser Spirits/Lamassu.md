@@ -1,0 +1,1 @@
+The **Lamassu** are a race of [[Beings/Spirits/Lesser Spirits/index|Lesser Spirits]], commonly taking the form of a hybrid of human, bird, and bull (though varying in the level of hybridization). The Lamassu are associated with the [[Stars]], and the protection of people or places. They are native to [[Paristan]], and considered cousins of the [[Sphinx]].

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/index.md",
+                "file": "Politics/Institutions/Khatibi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Khatibi"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "khazneh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Spirits/Greater Spirits/index.md",
+                "file": "Politics/Institutions/Khatibi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Khatibi"
             }
           }
         ],
@@ -169,42 +169,42 @@
   },
   "active": "f83d31685ea6b38d",
   "lastOpenFiles": [
-    "Beings/Spirits/Lesser Spirits/index.md",
-    "Beings/Spirits/Lesser Spirits/Oni.md",
-    "Beings/Spirits/Lesser Spirits/Zar.md",
-    "Beings/Spirits/Lesser Spirits/Qareen.md",
-    "Beings/Spirits/Greater Spirits/index.md",
-    "Beings/Spirits/Lesser Spirits/Udug.md",
-    "Beings/Spirits/Lesser Spirits/Udgalla.md",
-    "Beings/Spirits/Lesser Spirits/Div.md",
-    "Beings/Spirits/Lesser Spirits/Rabisu.md",
-    "Beings/Spirits/Lesser Spirits/Naddaha.md",
-    "Beings/Mortals/Zouhri.md",
-    "Beings/Spirits/Greater Spirits/Djinn.md",
-    "Beings/Monsters/Lesser Monsters/index.md",
-    "Beings/Monsters/Lesser Monsters",
-    "Beings/Spirits/index.md",
-    "Beings/Spirits/Lesser Spirits",
-    "Beings/Spirits/Greater Spirits/Marid.md",
-    "Beings/Spirits/Greater Spirits/Pari.md",
-    "index.md",
-    "History/Treasures/Tablet of Destinies.md",
-    "Politics/index.md",
-    "Politics/Titles & Positions/Caliph.md",
-    "History/Treasures/Fire of Life.md",
-    "History/Treasures/index.md",
+    "Politics/Titles & Positions/Khatib.md",
     "Geography/Territories/Algharbia.md",
     "Geography/Territories/Gazar.md",
+    "Geography/Territories/Burkanas.md",
+    "Geography/Territories/Marjan.md",
+    "Politics/Titles & Positions/Entu.md",
+    "Politics/Institutions/Khatibi.md",
+    "Politics/Titles & Positions/Hemet.md",
+    "Beings/Monsters/Greater Monsters/Humbaba.md",
+    "Beings/Monsters/Greater Monsters/Anzu.md",
+    "Beings/Monsters/Greater Monsters/Anqa.md",
+    "Beings/Monsters/Greater Monsters/Heavenly.md",
+    "Beings/Monsters/Greater Monsters/Heavenly Beasts/index.md",
+    "Beings/Monsters/Greater Monsters/Sphinx.md",
+    "Beings/Monsters/Greater Monsters/Heavenly Beasts",
+    "History/Treasures/Tablet of Destinies.md",
+    "Beings/Spirits/Lesser Spirits/Lamassu.md",
+    "Beings/Monsters/Greater Monsters/Yamikha.md",
+    "Beings/Monsters/Greater Monsters/Zaratan.md",
+    "Beings/Mortals/Kullullu.md",
+    "Beings/Mortals/index.md",
+    "Beings/Monsters/Greater Monsters/Dandan.md",
+    "Beings/Monsters/Greater Monsters/index.md",
+    "Beings/Monsters/Greater Monsters",
+    "Politics/Titles & Positions/Caliph.md",
+    "High Priest.md",
     "Geography/Locations/Tharwa/Tharwa.md",
-    "Geography/Locations/Tharwa/Blue Bank.md",
-    "Geography/Locations/Tharwa",
-    "Geography/Territories",
-    "Untitled.canvas",
-    "Geography/Locations",
-    "History/Treasures",
-    "Geography/Celestial Bodies",
-    "Politics/Titles & Positions",
-    "Beings/Spirits/Greater Spirits",
-    "Beings/Mortals"
+    "Geography/Locations/Tharwa/Lighthouse of Tharwa.md",
+    "Beings/Monsters/Lesser Monsters/Mortal Forms",
+    "Beings/Monsters/Lesser Monsters/Serpents",
+    "Beings/Plants",
+    "Beings/Monsters/Lesser Monsters/Avians",
+    "Beings/Monsters/Lesser Monsters/Equines",
+    "Geography/Outer Realms",
+    "Geography/Geographic Terms",
+    "Politics/Institutions",
+    "Untitled.canvas"
   ]
 }

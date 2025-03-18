@@ -1,0 +1,5 @@
+The **Roc** is a type of [[Beings/Monsters/Lesser Monsters/index|Lesser Monster]], an enormous bird of prey akin to an eagle or falcon, said to grow large enough to seize an elephant in their talons. They, like the [[Simurgh]], are considered close descendants of the [[Anqa]].
+
+The Roc is native to the vast [[Merudan Mountains|Merudan]] mountain range on the [[Eastern Frontier]] beyond the [[Mortal Empire]], but significant populations have developed along other mountain ranges including the [[Hajabyad Mountains|Hajabyad]] range that dominates the territory of the [[Sultanate]] of [[Hadid]].
+
+Rocs have an animalistic intelligence and are capable of being tamed and trained, though such a task is notoriously dangerous. Units of [[Roc Riders]] have been used to great effect by the [[Caliph's Haras]], the army of [[Hadid]], and the army of the [[Great City of Hath]].
