@@ -1,0 +1,1 @@
+**Malik** is a high ranking title meaning King. It is considered roughly equivalent to the position of [[Sultan]] in the [[Mortal Empire]], but Malik denotes an independent ruler who does not serve the [[Caliph]], and is thus less prestigious. The title is most common among the rulers of the [[Eastern Realms]].

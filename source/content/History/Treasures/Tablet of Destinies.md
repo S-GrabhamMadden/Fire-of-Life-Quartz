@@ -7,5 +7,5 @@ A handful of shards of the Tablet of Destinies are known to have been secreted a
 
 Known Shards include:
 * Two which were known to exist in the [[Caliph|Caliph's]] treasury at the [[Qasr]], though the status of the treasury following the demise of [[Caliph Alsaqr]] is unclear.
-* One remaining in the possession of the [[Magi]], hidden at a secret location only known to the highest ranking members of the Order.
+* One remaining in the possession of the [[Magi Order]], hidden at a secret location only known to the highest ranking members of the Order.
 * Another known to have been held in the treasury of the [[Green Sphinx]], but which vanished in the aftermath of the [[Raid on the Khazneh el-Akhdar]].

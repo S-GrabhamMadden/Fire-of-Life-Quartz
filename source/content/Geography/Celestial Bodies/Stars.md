@@ -1,6 +1,6 @@
 **The Stars**, much like the [[Throne]] above [[Aqn]], are creations of the [[True Gods]] to serve various mysterious purposes in ancient history, suspended in the [[Abzu]]. Many have spiritual associations with various aspects of life, and study of the movement and arrangement of the stars is a common divinatory practice across the world.
 
-Generally considered inanimate in the [[Mortal Empire]] and the East, some astrologers (in particular amongst the [[Magi]]) ascribe a level of consciousness to the Stars to explain otherwise-mysterious observations, and personifications of the major stars are the idols of deification among [[Star Worship|Star Worship Cults]], predominantly in [[Algharbia]].
+Generally considered inanimate in the [[Mortal Empire]] and the East, some astrologers (in particular amongst the [[Magi Order]]) ascribe a level of consciousness to the Stars to explain otherwise-mysterious observations, and personifications of the major stars are the idols of deification among [[Star Worship|Star Worship Cults]], predominantly in [[Algharbia]].
 
 ## Constellations and Major Stars
 

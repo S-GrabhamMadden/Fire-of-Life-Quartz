@@ -1,0 +1,1 @@
+**Nesut** is the title of the rulers of the [[Great Cities]] of the [[Mortal Empire]]. They are treated as equals of the [[Sultan|Sultans]], with additional ceremonial duties in relation to their representation of the aspects of [[Maat]].

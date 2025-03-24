@@ -11,13 +11,13 @@ The Caliph resides at the [[Qasr]], a vast, fortified, city-like palace complex 
 The Orders of the Empire are major social and political bodies recognized by the Caliphate, empowered with certain responsibilities and granted significant autonomy and authority. 
 
 #### Khatibi Order
-The [[Khatibi]] are the organized priesthood of the Mortal Empire, the proponents of [[Al-Khatib]], and the memorialists of the great [[Wali]].
+The [[Khatibi Order]] are the organized priesthood of the Mortal Empire, the proponents of [[Al-Khatib]], and the memorialists of the great [[Wali]].
 
 #### Magi Order
-The [[Magi]] are astrologers, alchemists, and sorcerers long since divided from the teachings of the [[House of Wisdom]]. They maintain many educational [[Madrasa|Madrasas]], and serve as advisors to nearly every aristocratic court of note.
+The [[Magi Order]] are astrologers, alchemists, and sorcerers long since divided from the teachings of the [[House of Wisdom]]. They maintain many educational [[Madrasa|Madrasas]], and serve as advisors to nearly every aristocratic court of note.
 
 #### Fidai Order
-The [[Fidai]] are a closed association of assassins and hunters, following the many predictions left behind by their mysterious founder. Officially, the Fidai are responsible for killing dangerous monsters and [[Sahir]] Black Magicians, but have also *allegedly* served historically as killers of tyrants.
+The [[Fidai Order]] are a closed association of assassins and hunters, following the many predictions left behind by their mysterious founder. Officially, the Fidai are responsible for killing dangerous monsters and [[Sahir]] Black Magicians, but have also *allegedly* served historically as killers of tyrants.
 
 ## Subdivisions
 
@@ -50,7 +50,7 @@ Though unofficial, the Sultanates are typically subdivided into five greater reg
  * [[Tar]]
 
 ### Great Cities
-The [[Great Cities]] are five small territories separate from the Sultanates and answerable only to the Qasr. Each is a center of population and commerce, and each is tightly associated with one of the five principles of [[Maat]], the core spiritual order of the realm.
+The [[Great Cities]] are five small territories separate from the Sultanates and answerable only to the Qasr. They are each governed by a [[Nesut]], a title of equivalent significance to the Sultans. Each is a center of population and commerce, and each is tightly associated with one of the five principles of [[Maat]], the core spiritual order of the realm.
 
  * [[Great City of Aam|Aam]]: The Great City of Morality.
  * [[Great City of Hath|Hath]]: The Great City of Order.
@@ -87,4 +87,4 @@ The Mortal Empire is vast and demographically diverse, but there are several sha
 The primary language of all social function is the [[Mortal Tongue]], its different dialects holding different levels of esteem for certain contexts and establishing degrees of relative social standing. [[Kullull]], the language of the [[Kullullu]], is also spoken, particularly by the [[Buhayr Kullullu]] of the Lakes.
 
 ### Religion
-[[Al-Khatib]] has been the State Religion of the Mortal Empire since the [[Apostasy]], overseen by the [[Khatibi|Khatibi Order]], the organized Church and Priesthood. This is a doctrine of ancestor worship and memorialization, empowering and calling on the souls of great Mortal [[Wali]] in defiance of any worship of a higher power.
+[[Al-Khatib]] has been the State Religion of the Mortal Empire since the [[Apostasy]], overseen by the [[Khatibi Order|Khatibi Order]], the organized Church and Priesthood. This is a doctrine of ancestor worship and memorialization, empowering and calling on the souls of great Mortal [[Wali]] in defiance of any worship of a higher power.

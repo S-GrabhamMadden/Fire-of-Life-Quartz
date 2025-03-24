@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Institutions/Khatibi.md",
+                "file": "Geography/Territories/Sultanates/Ahmar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Khatibi"
+              "title": "Ahmar"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "khazneh",
+                "query": "magi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Mortals/Humans.md",
+                "file": "Geography/Territories/Sultanates/Ahmar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Humans"
+              "title": "Backlinks for Ahmar"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beings/Mortals/Humans.md",
+                "file": "Geography/Territories/Sultanates/Ahmar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Humans"
+              "title": "Outgoing links from Ahmar"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Institutions/Khatibi.md",
+                "file": "Geography/Territories/Sultanates/Ahmar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Khatibi"
+              "title": "Outline of Ahmar"
             }
           }
         ],
@@ -169,42 +169,42 @@
   },
   "active": "f83d31685ea6b38d",
   "lastOpenFiles": [
-    "Politics/Titles & Positions/Khatib.md",
+    "Geography/Territories/Sultanates/Qatan.md",
+    "Geography/Territories/Sultanates/Ahmar.md",
+    "Politics/Economics/Goods/Marah Poppy.md",
+    "Geography/Locations/Central Sultanates/Qasr.md",
+    "Geography/Territories/Sultanates",
     "Geography/Territories/Algharbia.md",
-    "Geography/Territories/Gazar.md",
-    "Geography/Territories/Burkanas.md",
-    "Geography/Territories/Marjan.md",
-    "Politics/Titles & Positions/Entu.md",
-    "Politics/Institutions/Khatibi.md",
-    "Politics/Titles & Positions/Hemet.md",
-    "Beings/Monsters/Greater Monsters/Humbaba.md",
-    "Beings/Monsters/Greater Monsters/Anzu.md",
-    "Beings/Monsters/Greater Monsters/Anqa.md",
-    "Beings/Monsters/Greater Monsters/Heavenly.md",
-    "Beings/Monsters/Greater Monsters/Heavenly Beasts/index.md",
-    "Beings/Monsters/Greater Monsters/Sphinx.md",
-    "Beings/Monsters/Greater Monsters/Heavenly Beasts",
-    "History/Treasures/Tablet of Destinies.md",
-    "Beings/Spirits/Lesser Spirits/Lamassu.md",
-    "Beings/Monsters/Greater Monsters/Yamikha.md",
-    "Beings/Monsters/Greater Monsters/Zaratan.md",
-    "Beings/Mortals/Kullullu.md",
-    "Beings/Mortals/index.md",
-    "Beings/Monsters/Greater Monsters/Dandan.md",
-    "Beings/Monsters/Greater Monsters/index.md",
-    "Beings/Monsters/Greater Monsters",
+    "Geography/Geographic Terms/Eastern Realms.md",
+    "Geography/Geographic Terms/Eastern Frontier.md",
+    "Geography/Geographic Terms/Ard.md",
+    "Geography/Territories/Mortal Empire.md",
     "Politics/Titles & Positions/Caliph.md",
-    "High Priest.md",
-    "Geography/Locations/Tharwa/Tharwa.md",
-    "Geography/Locations/Tharwa/Lighthouse of Tharwa.md",
+    "Beings/Monsters/Lesser Monsters/Avians/Roc.md",
+    "Beings/Monsters/Lesser Monsters/Avians/Homay.md",
+    "Beings/Monsters/Lesser Monsters/Avians/Simurgh.md",
+    "Beings/Monsters/Greater Monsters/Anqa.md",
+    "Politics/Titles & Positions/Nesut.md",
+    "Politics/Titles & Positions/Malik.md",
+    "Politics/Titles & Positions/Sultan.md",
+    "Politics/Titles & Positions/Khatib.md",
+    "Politics/Titles & Positions/Khedive.md",
+    "Geography/Geographic Terms/Khedivate.md",
+    "Geography/Geographic Terms/Sultanate.md",
+    "Beings/Mortals/Zouhri.md",
+    "Politics/Institutions/Fidai Order.md",
+    "Politics/Institutions/Magi Order.md",
+    "Politics/Institutions/Khatibi Order.md",
+    "Geography/Territories/Marjan.md",
+    "Geography/Locations/Central Sultanates",
+    "Politics/Economics/Goods/Metals",
+    "Politics/Economics/Goods",
+    "Politics/Economics",
+    "Beings/Monsters/Greater Monsters/Heavenly Beasts",
+    "Beings/Monsters/Greater Monsters",
     "Beings/Monsters/Lesser Monsters/Mortal Forms",
     "Beings/Monsters/Lesser Monsters/Serpents",
     "Beings/Plants",
-    "Beings/Monsters/Lesser Monsters/Avians",
-    "Beings/Monsters/Lesser Monsters/Equines",
-    "Geography/Outer Realms",
-    "Geography/Geographic Terms",
-    "Politics/Institutions",
     "Untitled.canvas"
   ]
 }

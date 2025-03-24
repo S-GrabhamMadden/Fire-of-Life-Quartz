@@ -1,0 +1,3 @@
+A **Sultanate** is a realm, equivalent to a kingdom, ruled by a [[Sultan]]. This title is exclusive to the kings of the [[Mortal Empire]] who serve the [[Caliph]].
+
+Often, the Mortal Empire is said to have thirteen Sultanates. Technically, while it has thirteen major realms of roughly equivalent significance, only eleven of the realms are led by a [[Sultan]]. [[Irgal]] calls their leader a [[Lugal]], while [[Sawat]] is governed by a mostly autonomous [[Khedive]].

@@ -1,0 +1,5 @@
+**Orichalcum** is a rare precious metal that resembles an alloy of gold. It is easy to work in its raw state, but after a secret firing process becomes much harder without growing brittle. It is also said to have various protective properties, against malicious spirits or black magic. Because of this, it is prized for use in armor or weapons, as well as charms and jewelry.
+
+Much greater amounts of Orichalcum were produced in ancient times, but mines on the continent of [[Ard]] have long since run dry. Because of the firing process, it is nearly impossible to rework Orichalcum pieces, so it is mostly seen in the form of old relics today.
+
+Only in [[Algharbia]] is new Orichalcum still mined in small amounts, and the knowledge of working and firing the metal is held and passed down by only a handful of smiths in the world.

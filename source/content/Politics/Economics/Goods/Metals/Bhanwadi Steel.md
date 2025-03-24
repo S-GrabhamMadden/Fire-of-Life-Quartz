@@ -1,0 +1,3 @@
+**Bhanwadi Steel** is a type of crucible steel produced in [[Bhanwadia]] famous for its toughness, resistance to shattering, and its ability to hold an incredibly sharp and resilient edge. The exact method of production is a trade secret kept jealously by the [[Ispat Gild]], but is known to involve a mix of particular minerals of iron, various fluxes, and a small amount of existing Bhanwadi Steel.
+
+This process is slow and expensive, but produces a metal supposedly even harder than [[Orichalcum]]. Because of this, it is greatly valued in weapons and other military uses.

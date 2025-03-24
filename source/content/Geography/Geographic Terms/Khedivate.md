@@ -1,0 +1,1 @@
+A **Khedivate** is a territory governed by a [[Khedive]], a high ranking governor appointed by the [[Caliph]] of the [[Mortal Empire]].

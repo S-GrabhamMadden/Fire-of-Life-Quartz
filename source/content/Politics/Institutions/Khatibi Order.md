@@ -1,4 +1,4 @@
-The **Khatibi** are a large and diverse priestly organisation, and one of the three orders of the [[Mortal Empire]]. Practitioners of [[Al-Khatib]], the Khatibi record and honour the names and deeds of the [[Wali]], measure the status of [[Maat]], and render advice and aid to all levels of society. Khatibi speakers hold both political influence and spiritual power.
+The **Khatibi** are a large and diverse priestly organisation, and one of the three [[Orders of the Mortal Empire]]. Practitioners of [[Al-Khatib]], the Khatibi record and honour the names and deeds of the [[Wali]], measure the status of [[Maat]], and render advice and aid to all levels of society. Khatibi speakers hold both political influence and spiritual power.
 
 ## Organisation
 

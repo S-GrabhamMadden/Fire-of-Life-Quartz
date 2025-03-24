@@ -1,0 +1,5 @@
+**Ahmar** is a [[Southern Sultanates|Southern]] [[Sultanate]] of the [[Mortal Empire]]. It is the largest and most populous of the southern Sultanates, and borders the [[Western Ocean]] to the west, the [[Eastern Frontier]] to the east, [[Qatan]] to the south, and [[Aswal]] and [[Musur]] to the north. The northern border of Ahmar is largely defined by the [[Rwb River]], which is often considered the threshold of the South. Between Ahmar and [[Aswal]], the [[Great City of Is]] sits at the delta of the [[Rwb River]] on the coast.
+
+The north and east of Ahmar has famously red sand, but the southern part of the Sultanate, particularly along the coast, is less arid. This region is home to most of the population. The Sultan of Ahmar's palace is at [[Kohta]], a small city on the coast.
+
+The mountainous east of the Sultanate produces iron and stone, while farms along the [[Rwb River]] grow sugarcane and rice. In the south, plantations grow other cash crops including cotton, tobacco, hashish, and [[Marah Poppy]].
