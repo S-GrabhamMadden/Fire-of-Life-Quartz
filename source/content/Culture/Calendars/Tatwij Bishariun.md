@@ -1,0 +1,3 @@
+**Tatwij Bishariun** is the first day of the new year in the [[Taqwim hasb Karama]], a holiday celebrating the victory of the [[War of Fate]] and the sacrifices made to defeat the [[Djinn]], the coronation of [[Beings/Mortals/index|Mortals]] to the position of [[Caliph]], and making remembrances to particular [[Wali]].
+
+Typical traditions include the pouring of libations for the soldiers of the [[War of Fate]], and celebrating the names of the [[Caliph|Caliphs]]. While [[Khatib]] may spend much of the day invoking each historic Caliph in depth, most common people will celebrate [[Caliph Ezim]], the current ruling Caliph, and perhaps one more Caliph of significance.

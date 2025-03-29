@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Territories/Sultanates/Ahmar.md",
+                "file": "Culture/Calendars/Taqwim hasb Karama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ahmar"
+              "title": "Taqwim hasb Karama"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magi",
+                "query": "mort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Territories/Sultanates/Ahmar.md",
+                "file": "Culture/Calendars/Taqwim hasb Karama.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ahmar"
+              "title": "Outline of Taqwim hasb Karama"
             }
           }
         ],
@@ -169,8 +169,20 @@
   },
   "active": "f83d31685ea6b38d",
   "lastOpenFiles": [
-    "Geography/Territories/Sultanates/Qatan.md",
+    "Politics/Titles & Positions/Caliph.md",
+    "Culture/Calendars/Taqwim hasb Karama.md",
+    "Geography/Locations/Tharwa/Tharwa.md",
+    "Culture/Calendars/Tatwij Bishariun.md",
+    "Culture/Calendars/Waqt Alsiyam.md",
+    "Culture/Calendars/Yawm Raha.md",
+    "Culture/Calendars/Yawm Aleata.md",
+    "Politics/Institutions/Khatibi Order.md",
+    "Geography/Celestial Bodies/Qamar.md",
+    "Culture/Calendars",
+    "Politics/Titles & Positions/Entu.md",
+    "Untitled.canvas",
     "Geography/Territories/Sultanates/Ahmar.md",
+    "Geography/Territories/Sultanates/Qatan.md",
     "Politics/Economics/Goods/Marah Poppy.md",
     "Geography/Locations/Central Sultanates/Qasr.md",
     "Geography/Territories/Sultanates",
@@ -179,7 +191,6 @@
     "Geography/Geographic Terms/Eastern Frontier.md",
     "Geography/Geographic Terms/Ard.md",
     "Geography/Territories/Mortal Empire.md",
-    "Politics/Titles & Positions/Caliph.md",
     "Beings/Monsters/Lesser Monsters/Avians/Roc.md",
     "Beings/Monsters/Lesser Monsters/Avians/Homay.md",
     "Beings/Monsters/Lesser Monsters/Avians/Simurgh.md",
@@ -187,15 +198,6 @@
     "Politics/Titles & Positions/Nesut.md",
     "Politics/Titles & Positions/Malik.md",
     "Politics/Titles & Positions/Sultan.md",
-    "Politics/Titles & Positions/Khatib.md",
-    "Politics/Titles & Positions/Khedive.md",
-    "Geography/Geographic Terms/Khedivate.md",
-    "Geography/Geographic Terms/Sultanate.md",
-    "Beings/Mortals/Zouhri.md",
-    "Politics/Institutions/Fidai Order.md",
-    "Politics/Institutions/Magi Order.md",
-    "Politics/Institutions/Khatibi Order.md",
-    "Geography/Territories/Marjan.md",
     "Geography/Locations/Central Sultanates",
     "Politics/Economics/Goods/Metals",
     "Politics/Economics/Goods",
@@ -203,8 +205,6 @@
     "Beings/Monsters/Greater Monsters/Heavenly Beasts",
     "Beings/Monsters/Greater Monsters",
     "Beings/Monsters/Lesser Monsters/Mortal Forms",
-    "Beings/Monsters/Lesser Monsters/Serpents",
-    "Beings/Plants",
-    "Untitled.canvas"
+    "Beings/Monsters/Lesser Monsters/Serpents"
   ]
 }
